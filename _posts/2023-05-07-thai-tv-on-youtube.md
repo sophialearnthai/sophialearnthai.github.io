@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thai TV on YouTube
+permalink: thai-tv-on-youtube
 ---
 
 # Thai TV on YouTube
