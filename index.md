@@ -2,6 +2,8 @@
 layout: default
 title: Sophia Learn Thai
 ---
-# Sophia Learn Thai Heading
+# Latest Posts
 
-This page tells you a little bit about me.
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
